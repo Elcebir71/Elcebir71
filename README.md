@@ -14,7 +14,8 @@ I enjoy turning real-world problems into practical software and data-driven solu
 - **Backend:** ASP.NET Core, Flask, REST APIs
 - **Frontend:** Blazor, HTML, CSS, JavaScript
 - **Databases:** SQL Server, PostgreSQL
-- **Tools:** Git, GitHub, Docker, Streamlit, Swagger/OpenAPI
+- **Cloud & DevOps:** Cloud Computing, Docker, Azure DevOps
+- **Tools:** Git, GitHub, Streamlit, Swagger/OpenAPI
 
 ## 🚀 Featured Projects
 
@@ -32,7 +33,7 @@ End-to-end machine learning project for Dutch real-estate price prediction.
 
 ### ⚡ Corporate Energy API
 
-A .NET application for collecting, storing and visualizing industrial energy data.
+A .NET application for collecting, storing and visualizing industrial energy data, with a layered API/data-access architecture and interactive dashboards.
 
 - ASP.NET Core and Blazor Server
 - Entity Framework Core and SQL Server
