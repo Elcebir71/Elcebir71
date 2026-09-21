@@ -19,17 +19,19 @@ I enjoy turning real-world problems into practical software and data-driven solu
 
 ## 🚀 Featured Projects
 
-### 🏠 Funda House Price Predictor
+### 🌍 European Inflation & Political Change
 
-End-to-end machine learning project for Dutch real-estate price prediction.
+End-to-end data analysis project examining the association between inflation, migration pressure, macroeconomic conditions, and government changes across 28 European countries.
 
-- Python, Pandas, NumPy, scikit-learn
-- XGBoost and LightGBM model comparison
-- Selenium + BeautifulSoup for data collection
-- Streamlit interactive dashboard
-- Model evaluation with R², MAE, RMSE and MAPE
+- Python, Pandas, NumPy, Statsmodels
+- Eurostat, ONS and ParlGov data integration
+- Four logistic-regression model specifications
+- Confidence intervals and statistical uncertainty analysis
+- .NET 8 Minimal API and Docker
+- GitHub Actions CI/CD
+- Deployed on Railway
 
-[View project](https://github.com/Elcebir71/funda-price-predictor) · [Live Demo](https://funda-price-predictor-8jrrmtbezmxhjwbtwczyqg.streamlit.app)
+[View project](https://github.com/Elcebir71/European-inflation-political-change)
 
 ### ⚡ Corporate Energy API
 
