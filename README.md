@@ -26,7 +26,7 @@ End-to-end data analysis project examining the association between inflation, mi
 - Python, Pandas, NumPy, Statsmodels
 - Eurostat, ONS and ParlGov data integration
 - Four logistic-regression model specifications
-- Confidence intervals and statistical uncertainty analysis
+- Odds ratios, 95% confidence intervals, p-values, and AIC
 - .NET 8 Minimal API and Docker
 - GitHub Actions CI/CD
 - Deployed on Railway
