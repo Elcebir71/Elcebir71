@@ -19,6 +19,21 @@ I enjoy turning real-world problems into practical software and data-driven solu
 
 ## 🚀 Featured Projects
 
+### 🚜 Nijkerk Agricultural Transition Monitor
+
+Interactive geospatial dashboard prototype built for gemeente Nijkerk (NL),
+turning municipal livestock/manure data into a scenario-planning tool for
+the local agricultural transition.
+
+- Python data pipeline (CBS StatLine + RVO norms → synthetic demo dataset)
+- Single source-of-truth coefficient module shared by the data generator,
+  the dashboard and the documentation
+- Species-level scenario engine (per animal category, not per farm)
+- Interactive map + searchable table, self-contained HTML/JS
+- Privacy-conscious synthetic data design, fully documented methodology
+
+[View project](https://github.com/Elcebir71/nijkerk-transition-monitor)
+
 ### 🌍 European Inflation & Political Change
 
 End-to-end data analysis project examining the association between inflation, migration pressure, macroeconomic conditions, and government changes across 28 European countries.
